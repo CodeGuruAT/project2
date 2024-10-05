@@ -4,4 +4,4 @@ learning git.
 
 # name
 
-My name is codeguru
+My name is codeguru and I am learning git.
