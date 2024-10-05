@@ -1,3 +1,7 @@
 # topic
 
-learning git
+learning git.
+
+# name
+
+My name is codeguru
